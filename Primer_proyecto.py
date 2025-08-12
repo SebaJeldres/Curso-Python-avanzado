@@ -1,3 +1,4 @@
+#Dia 1
 print("Hola mundo")
 
 # ejercicio 1
