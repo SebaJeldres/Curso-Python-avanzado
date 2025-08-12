@@ -29,3 +29,16 @@ print("G\tH\tI")
 #Ejercicio 6
 print("Barra Normal: /")
 print("Barra Invertida: \\")
+
+#input
+print("Tu nombre es: " + input("Dime tu nombre: "))
+print(input("Dime tu Apellido: "))
+
+#Ejercicio 7
+print(input("¿Qué estás estudiando?"))
+
+#Ejercicio 8
+print(input("¿En qué país vives?"))
+
+#Ejercicio 9
+print(input("Escribe tu nombre: ") + " " + input("Escribe tu apellido: "))
