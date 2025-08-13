@@ -43,3 +43,5 @@ print("Estás tomando un curso de", curso)
 #No se puede iniciar con numeros
 #sin signos
 #no palabras claves
+
+
