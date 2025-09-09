@@ -40,7 +40,7 @@ print(lista)
 
 #reversiona la lista
 lista.reverse()
-print(lista)
+print(f"Esta lista es {lista}")
 
 #Ejercicio 1
 mi_lista = ["3", "4", 5, 5, 6]
