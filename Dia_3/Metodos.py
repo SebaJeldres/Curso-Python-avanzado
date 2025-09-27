@@ -1,4 +1,4 @@
-texto = "Este es el texto de sebastian"
+texto = "Sebastian"
 
 
 resultado = texto. upper()
